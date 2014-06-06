@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "United States",
+        "type": "Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036736,
+          38.8951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Argentina",
+        "type": "Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3833,
+          -34.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bangladesh",
+        "type": "Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35,
+          23.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burkina-Faso",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.66667,
+          12.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.03333,
+          12.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cote d'Ivoire",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.85,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.656,
+          -2.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ethiopia",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.75,
+          9.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Guinea-Biassu",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Haiti",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3333,
+          18.53333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2167,
+          14.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kosovo",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.85,
+          42.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kyrgyzstan",
+        "typ": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6,
+          42.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Laos",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6,
+          17.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Liberia",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8,
+          6.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47,
+          -20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malawi",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7,
+          -13.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Moldova",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9167,
+          47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nepal",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.73333,
+          26.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Romania",
+        "type": "Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Senegal",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4167,
+          14.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "South Sudan",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45,
+          6.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tanzania",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.854,
+          -6.307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Timor-Leste",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5667,
+          8.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Togo",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2167,
+          6.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "type": "AMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8833,
+          1.0667
+        ]
+      }
+    }
+  ]
+}
